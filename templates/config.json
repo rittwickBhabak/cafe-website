@@ -1,0 +1,17 @@
+{
+    "params":
+    {
+        "cafe_name": "City Cafe",
+        "about_the_cafe_1": "The Cafe was founded in blabla by Mr. Smith in lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. In addition to our full espresso and brew bar menu, we serve fresh made-to-order breakfast and lunch sandwiches, as well as a selection of sides and salads and other good stuff.",
+        "about_the_cafe_2": "In addition to our full espresso and brew bar menu, we serve fresh made-to-order breakfast and lunch sandwiches, as well as a selection of sides and salads and other good stuff.",
+        "opening_hours_1": "Open from 6am to 5pm",
+        "opening_hours_2": "everyday from 6am to 5pm",
+        "cafe_address": "15 Adr street, 5015, NY",
+        "about_our_service": "We offer full-service catering for any event, large or small. We understand your needs and we will cater the food to satisfy the biggerst criteria of them all, both look and taste.",
+        "icon": "https://images.cnbctv18.com/wp-content/uploads/2019/09/coffeee-768x504.jpg",
+        "main_image": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "middel_image": "https://media.architecturaldigest.in/wp-content/uploads/2020/07/vadodara-cafe-interiors-photos-1.jpg",
+        "last_image": "https://www.telegraph.co.uk/content/dam/Travel/2017/April/coffee.jpg",
+        "google_map_url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1004.0910816358497!2d88.37884213317692!3d22.615644282026548!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f89d8bbadae23d%3A0xb2a769f2fea0951!2sCaf%C3%A9%20Coffee%20Day%20-%20Bt%20Road!5e0!3m2!1sen!2sin!4v1602862205837!5m2!1sen!2sin"
+    }
+}
